@@ -48,7 +48,7 @@ WADS-Firebase/
 
 ### **Clone the Repository**
 ```sh
-git clone <your-repo-url>
+git clone (https://github.com/RelKereta/WADS-Firebase-New)
 cd WADS-Firebase
 ```
 
